@@ -22,4 +22,4 @@ In other words, learning in the direction of weakening the Domain Discriminator 
 feature representation does not distinguish between source domain and target domain while
 maintaining the role of the classifier well.
 
-![img2](./imgs/)
+![img2](./imgs/img2.png)

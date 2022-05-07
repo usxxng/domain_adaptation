@@ -23,3 +23,6 @@ feature representation does not distinguish between source domain and target dom
 maintaining the role of the classifier well.
 
 ![img2](./imgs/img2.png)
+Minmax Game
+- Minimize Training Classification Error
+- Maximize Training & test domain classification error

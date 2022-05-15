@@ -28,4 +28,5 @@ Minmax Game
 - Maximize Training & test domain classification error
 
 
+참고해서 정리 필요
 https://yjs-program.tistory.com/168

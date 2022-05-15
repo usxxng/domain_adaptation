@@ -26,3 +26,6 @@ maintaining the role of the classifier well.
 Minmax Game
 - Minimize Training Classification Error
 - Maximize Training & test domain classification error
+
+
+https://yjs-program.tistory.com/168

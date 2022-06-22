@@ -1,5 +1,4 @@
 # Domain Adaptation
-## domain adaptation based on adversarial learning
 
 ### 🧐Specific Task : Domain Adaptation
 

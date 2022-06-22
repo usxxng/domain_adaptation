@@ -2,8 +2,6 @@
 
 ### 🧐Specific Task : Domain Adaptation
 
-Domain Adaptation
-
 ## How would the performance when applied to images captured on YouTube with classifiers learned from ImageNet data?
 ![img1](./imgs/adaptation.png)
 

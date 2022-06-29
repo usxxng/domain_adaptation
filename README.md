@@ -24,4 +24,3 @@ Minmax Game
 - Minimize Training Classification Error
 - Maximize Training & test domain classification error
 
-![img4](./imgs/img3.png)

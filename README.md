@@ -10,6 +10,8 @@ As a result, the reason for the poor performance is that the source domain (labe
 
 → How can we learn to generalize? : “Learn a representation that cannot distinguish domains”
 
+Unsupervised Domain Adaptation by Backpropagation (ICML, 2015)
+
 DANN(Domain Adversarial Neural Network) performs two tasks at the same time:
 Classification of class labels and Domain of source and target.
 - Minimize training classification error
